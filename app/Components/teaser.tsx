@@ -14,7 +14,7 @@ export default function Teaser() {
                    <div className="flex flex-col gap-4">
                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                    <Link to="/about">
-                   <button className="bg-gray-500 p-1 text-white px-2 rounded hover:bg-gray-200 hover:text-gray-500 hover:text-lg transition-transform duration-600">Learn More</button>
+                   <button className="bg-gray-500 p-1 text-white px-2 rounded hover:bg-gray-200 hover:text-gray-500 hover:scale-95 transition-transform duration-300">Learn More</button>
                    </Link>
                    </div>
                 </div>
