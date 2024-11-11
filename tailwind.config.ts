@@ -6,7 +6,7 @@ export default {
     extend: {
       fontFamily: {
         sans: [
-          "Inter",
+          "Nunito",
           "ui-sans-serif",
           "system-ui",
           "sans-serif",
@@ -18,5 +18,8 @@ export default {
       },
     },
   },
+
   plugins: [],
 } satisfies Config;
+
+
